@@ -1,14 +1,4 @@
-# credit-risk-classification
-
-Title- Homework Module 20 Credit Risk  Challenge- Conner Dekok
-We looked at a csv that had a set of credit data and developed a variety of different interesting findings.  
-Collaboration with other students- I worked with Hunter Becker on this project.  We worked together on completing this project and comparing our results with one another to help make sure we were on the right track when it came to completing this assignment. 
-I reviewed the in-class meetings and reviewed the examples we went through in these class lessons. This helped me create some of my starter code along with comments that I used throughout my code. 
-I used Microsoft copilot to help correct or ask any questions and bugs I had when creating my code. 
-
-
-The analysis is in the readme file as well as the report file in the Credit_Risk folder.
-
+# Module 12 Report Template
 
 ## Overview of the Analysis
 
